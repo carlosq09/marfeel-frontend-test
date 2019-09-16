@@ -1,0 +1,44 @@
+[
+    {
+        "title": "revenue",
+        "units": "€",
+        "data": [
+            {
+                "device": "Smartphone",
+                "count": 80000
+            },
+            {
+                "device": "Tablet",
+                "count": 120000
+            }  
+        ]
+    },
+    {
+        "title": "impresions",
+        "units": "",
+        "data": [
+            {
+                "device": "Smartphone",
+                "count": 3000000
+            },
+            {
+                "device": "Tablet",
+                "count": 2000000
+            }
+        ]
+    },
+    {
+        "title": "visits",
+        "units": "",
+        "data": [
+            {
+                "device": "Smartphone",
+                "count": 120000000
+            },
+            {
+                "device": "Tablet",
+                "count": 480000000
+            }
+        ]
+    }
+]
